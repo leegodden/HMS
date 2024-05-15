@@ -1,0 +1,9 @@
+﻿Set up project hms
+Build project runs on `localhost:7058`
+in HMS (main) add new project named HMS.Entities
+Delete Class1.cs from newly created popject
+Create "AccommodationType" class and add code
+Create "AccommodationPackage" class and add code
+Create Accommodation class and add code
+Create Booking class and add code
+
